@@ -1,4 +1,8 @@
 # LLM_Learning
+
+![image](assets/images/taotian.jpg)
+
+
 LLM&amp;VLM learning, my first LLM build shot.
 
 Link Here: https://github.com/InternLM/Tutorial
